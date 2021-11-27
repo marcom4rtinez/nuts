@@ -15,6 +15,8 @@ default_index = {
     "TestNetmikoIperf": "nuts.base_tests.netmiko_iperf",
     "TestNetmikoOspfNeighborsCount": "nuts.base_tests.netmiko_ospf_neighbors",
     "TestNetmikoOspfNeighbors": "nuts.base_tests.netmiko_ospf_neighbors",
+    "TestNetmikoVlans": "nuts.base_tests.netmiko_get_vlans",
+    "TestNetmikoOnlyDefinedVlansExist": "nuts.base_tests.netmiko_get_vlans",
 }
 
 
